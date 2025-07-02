@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Imagens">
+        <file>GUI/Bussola.png</file>
+        <file>GUI/Carros/carro_policia.png</file>
+        <file>GUI/Carros/carro_amarelo.png</file>
+        <file>GUI/Buttons/media-playback-pause.svg</file>
+        <file>GUI/Buttons/media-playback-start.svg</file>
+        <file>GUI/Buttons/media-playback-stop.svg</file>
+        <file>GUI/Rodovia/Rodovia.png</file>
+    </qresource>
+</RCC>
