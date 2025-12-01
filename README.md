@@ -2,6 +2,8 @@
 
 Projects from my time at UFSC, where I learned to code, debug, and occasionally panic before deadlines.
 
+> For my bachelor’s thesis, see [this repository](https://github.com/jesuinovieira/bachelor-thesis) :)
+
 ## EMB5630 Programming II
 
 - 📝 **[Text Editor](https://github.com/jesuinovieira/ufsc-coursework/tree/main/EMB5630%20Programming%20II/text-editor)**: simple text editor built with linked list
